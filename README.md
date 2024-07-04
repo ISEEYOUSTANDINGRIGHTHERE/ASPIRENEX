@@ -18,6 +18,8 @@ Given the class imbalance ratio, we recommend measuring the accuracy using the A
 
 \\TASK-2
 
+![images](https://github.com/ISEEYOUSTANDINGRIGHTHERE/ASPIRENEX/assets/95573864/4a202d89-612f-47a2-aaad-ea6d9e7e8a7b)
+
 ABOUT IMBD INDIAN MOVIE PREDICTION
 
 IMBD INDIA MOVIES RATING PREDICTION WITH PYTHON
