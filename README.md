@@ -1,3 +1,5 @@
+![fraud-EMV-chip-credit-card](https://github.com/ISEEYOUSTANDINGRIGHTHERE/ASPIRENEX/assets/95573864/dd1cd230-d8b6-436c-bdf5-aed26039e586)
+
 About  Credit Fraud Dataset 
 
 Context:
